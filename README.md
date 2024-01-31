@@ -2,7 +2,7 @@
 
 🧟‍♂️🌍 Welcome to the Zombie Apocalypse Simulation Project! 🌍🧟‍♀️
 
-This project is part of COMP 201 – Fall 2023 Assignment 2: Heap Management, focusing on creating a zero-player game that simulates a zombie apocalypse. The assignment was assigned on November 1, 2023, and completed by me, Ezgi Akkaya (KU ID: 79676). 🧑‍💻🧠
+This project is part of COMP 201 – Fall 2023 Assignment 2: Heap Management, focusing on creating a zero-player game that simulates a zombie apocalypse.  🧑‍💻🧠
 
 ## Overview 📖
 
