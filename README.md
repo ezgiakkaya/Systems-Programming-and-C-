@@ -39,13 +39,6 @@ Through this project, I enhanced my skills in:
 - Debugging and testing code for correctness.
 - Using Git and GitHub for version control.
 
-## Acknowledgements 👏
-
-Special thanks to M. Burak Kizil (mkizil19@ku.edu.tr) for guiding this assignment and to my peers for their abstract discussions and support.
-
-## Note 📝
-
-This project strictly adheres to the Koç University's Academic Integrity policies. All work is original and completed individually.
 
 ---
 
@@ -53,4 +46,3 @@ Hope you enjoy this simulation of the fierce battle between humans and zombies! 
 
 ---
 
-_Ezgi Akkaya (KU ID: 79676)_
